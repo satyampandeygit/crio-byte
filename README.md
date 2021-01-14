@@ -1,3 +1,3 @@
 # crio-byte
 
-learning git basics
+learning git basics with crio
