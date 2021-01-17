@@ -2,4 +2,4 @@
 
 JavaScript basics done
 
-work further on JavaScript
+work on JavaScript further
