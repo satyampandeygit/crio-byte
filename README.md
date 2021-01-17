@@ -1,3 +1,5 @@
 # crio-byte
 
-learning git basics with crio hello
+JavaScript basics done
+
+work further on JavaScript
